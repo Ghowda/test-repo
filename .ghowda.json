@@ -1,0 +1,8 @@
+{
+  "//comment": "This is ghowda config file",
+  "labels": {
+    "javascript": {
+      "color": "yellow"
+    }  
+  }
+}
